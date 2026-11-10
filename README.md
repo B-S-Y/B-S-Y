@@ -17,9 +17,9 @@ and I automate the repetitive parts of business processes.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **BendeVar** | [one-sentence pitch: what it does and for whom] | Flutter · Android · iOS |
+| **BendeVar** | A mobile app that connects people who share a place, like a school, a dorm or a company, so they can help meet each other's needs | Flutter · Android · iOS |
 | **ChaosCamp26** | Programming and 3D course with weekly assignments | C++ |
-| **Purssist** | [one-sentence description, no internals] · *private, in development* | [stack] |
+| **Purssist** | A dark, pixel-art focus and reminder app where a cat named Pati waits for you · *private, in development* | [stack] |
 
 ## 🔬 Research and experience
 
